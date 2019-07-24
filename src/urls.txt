@@ -1,0 +1,4 @@
+ssh://git@innersource.accenture.com/pdcbuc/jenkins-pipeline-libs.git
+ssh://git@innersource.accenture.com/pdcbuc/sample-maven-ci-pipeline-libs.git
+ssh://git@innersource.accenture.com/pdcbuc/gitlab-java-maven-ci-cartridge.git
+https://github.com/bzon/spring-petclinic
